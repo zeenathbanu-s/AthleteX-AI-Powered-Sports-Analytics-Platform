@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/action_filter_sport"
+        android:icon="@drawable/ic_filter_24"
+        android:title="Filter by Sport"
+        app:showAsAction="ifRoom" />
+        
+    <item
+        android:id="@+id/action_filter_difficulty"
+        android:title="Filter by Difficulty"
+        app:showAsAction="never" />
+        
+    <item
+        android:id="@+id/action_reset_filters"
+        android:title="Reset Filters"
+        app:showAsAction="never" />
+        
+</menu>

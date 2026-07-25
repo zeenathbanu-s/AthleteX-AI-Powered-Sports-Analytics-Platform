@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/action_add_metric"
+        android:icon="@drawable/ic_add_24"
+        android:title="Add Metric"
+        app:showAsAction="ifRoom" />
+        
+    <item
+        android:id="@+id/action_toggle_chart"
+        android:title="Toggle Chart Type"
+        app:showAsAction="never" />
+        
+    <item
+        android:id="@+id/action_analytics"
+        android:title="View Analytics"
+        app:showAsAction="never" />
+        
+</menu>

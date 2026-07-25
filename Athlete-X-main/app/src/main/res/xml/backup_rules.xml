@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Sample backup rules file; uncomment and customize as necessary.
+   See https://developer.android.com/guide/topics/data/autobackup
+   for a description of the file format.
+   Note: The rules for files that you list in the rules file apply only to files that you store in the app's data directory. Files that you create in the external storage directory don't need backup rules because auto backup doesn't include any files in the external storage directory.
+
+   <full-backup-content>
+       <include domain="sharedpref" path="."/>
+       <exclude domain="sharedpref" path="device.xml"/>
+   </full-backup-content>
+-->
+<full-backup-content />

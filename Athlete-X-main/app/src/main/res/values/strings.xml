@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AthleteX</string>
+    
+    <!-- Authentication -->
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="forgot_password">Forgot Password?</string>
+    
+    <!-- Profile -->
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (cm)</string>
+    <string name="sports_played">Sports Played</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="country">Country</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="upload_photo">Upload Photo</string>
+    
+    <!-- Assessment -->
+    <string name="assessment_tests">Assessment Tests</string>
+    <string name="shot_put">Shot Put</string>
+    <string name="broad_jump">Broad Jump</string>
+    <string name="shuttle_run">Shuttle Run</string>
+    <string name="squats">Squats</string>
+    <string name="high_jump">High Jump</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="upload_video">Upload Video</string>
+    
+    <!-- Performance -->
+    <string name="athletic_performance">Athletic Performance</string>
+    <string name="timing_100m">100m Timing</string>
+    <string name="timing_200m">200m Timing</string>
+    <string name="long_jump">Long Jump</string>
+    <string name="timing_800m">800m Timing</string>
+    <string name="performance_history">Performance History</string>
+    <string name="view_graph">View Graph</string>
+    
+    <!-- Training -->
+    <string name="training_programs">Training Programs</string>
+    <string name="football">Football</string>
+    <string name="basketball">Basketball</string>
+    <string name="handball">Handball</string>
+    <string name="athletics">Athletics</string>
+    <string name="hockey">Hockey</string>
+    <string name="kabaddi">Kabaddi</string>
+    <string name="exercises">Exercises</string>
+    <string name="training_plan">Training Plan</string>
+    
+    <!-- Social Feed -->
+    <string name="social_feed">Social Feed</string>
+    <string name="upload_post">Upload Post</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    
+    <!-- Admin -->
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="athlete_rankings">Athlete Rankings</string>
+    <string name="filter_by_sport">Filter by Sport</string>
+    <string name="filter_by_age">Filter by Age</string>
+    <string name="filter_by_location">Filter by Location</string>
+    <string name="shortlist_athlete">Shortlist Athlete</string>
+    
+    <!-- Common -->
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="loading">Loading...</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="success">Success</string>
+    <string name="no_data_available">No data available</string>
+</resources>
